@@ -10,7 +10,9 @@ title: GeoMapas
 email: c.bg@live.com
 description: > # this means to ignore newlines until "baseurl:"
  Aplicaciónes para la localización de servicios públicos como paradas de bus, 
- Locales y demás.  
+ Locales y demás.
+ 
+ Utilizamos código abierto y opciones de Geo localización para ofrecer nuestros servicios
  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
